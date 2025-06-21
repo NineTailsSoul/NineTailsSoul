@@ -12,7 +12,7 @@
 
 - 👾 A passionate Self-taught Developer  
 - 🔒 Cybersecurity Enthusiast  
-- 🎮 Love gaming and anime (Naruto Fan)  
+- 🎮 Love gaming and anime  
 - 🌱 Currently learning Web Development and Ethical Hacking  
 - 🚀 Building a Cybersecurity Website with Real-Time Dark Web Monitoring  
 - ⚡ Always curious and exploring new technologies  
@@ -37,7 +37,9 @@
 <br>  
 
 - **Back-End Development**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
+  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+
 
 <br>  
 
