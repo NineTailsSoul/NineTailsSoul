@@ -1,12 +1,9 @@
 <div align="center">
   <h1>
     Hi, I'm Aryan <span style="font-size: 0.8em;">(aka Ninetailssoul)</span>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Wave">
   </h1>
 
-  <a href="https://github.com/ninetailssoul">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&height=50&lines=Self-taught+Developer+👾;Reverse+Engineer+%26+Security+Enthusiast+🔒;Building+Scrapers%2C+Apps+%26+Robotics+🚀;Arch+Linux+Power+User+🐧;Always+Breaking+%26+Building+Things..." alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&height=50&lines=Reverse+Engineer;Self-taught+Developer;Web+%26+Mobile+App+Developer;Building+Scrapers+%26+Automation+Tools;Arch+Linux+Power+User;Always+Breaking+%26+Building+Things" alt="Typing SVG" />
 </div>
 
 <br>
