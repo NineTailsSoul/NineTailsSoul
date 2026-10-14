@@ -1,94 +1,98 @@
-<h1 align="center"><b>Hi, I'm Aryan aka Ninetailssoul</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>  
+<div align="center">
+  <h1>
+    Hi, I'm Aryan <span style="font-size: 0.8em;">(aka Ninetailssoul)</span>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="Wave">
+  </h1>
+
+  <a href="https://github.com/ninetailssoul">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=620&height=50&lines=Self-taught+Developer+👾;Reverse+Engineer+%26+Security+Enthusiast+🔒;Building+Scrapers%2C+Apps+%26+Robotics+🚀;Arch+Linux+Power+User+🐧;Always+Breaking+%26+Building+Things..." alt="Typing SVG" />
+  </a>
+</div>
+
+<br>
+
+---
+
+### ⚡ About Me
+
+- 👾 **Identity:** Self-taught developer, reverse engineer, and open-source enthusiast.
+- 🔒 **Current Focus:** Deep-diving into network protocol analysis, binary analysis, and API reverse engineering.
+- 🌱 **Multi-Domain:** Developing web platforms, cross-platform mobile apps, automated scrapers, and robotics hardware.
+- 🐧 **Daily Driver:** Arch Linux with a fully customized environment.
+- 🎮 **Interests:** Anime, gaming, calisthenics, and tearing things apart to figure out how they work.
+
+---
+
+### 🛠️ Tech Stack & Arsenal
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+GitHub+Profile!+👾;Self-taught+Developer,;Cybersecurity+Enthusiast,;Active+Learner,;Anime+Fan+🔥+;Always+Learning+New+Things...">
-  </a>
-</p>  
+  <b>Languages</b><br>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Frontend & Mobile Development</b><br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=white" />
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Backend, APIs & Databases</b><br>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-026E00?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Reverse Engineering, Scraping & Security</b><br>
+  <img src="https://img.shields.io/badge/Ghidra-EF2D5E?style=for-the-badge&logo=dependabot&logoColor=white" />
+  <img src="https://img.shields.io/badge/IDA_Pro-E0234E?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Frida-FF6B35?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/JADX-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/mitmproxy-C1272D?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Embedded & Hardware</b><br>
+  <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+</p>
+
+<p align="center">
+  <b>Platform & Tools</b><br>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux_Terminal-054020?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
 ---
 
-## <picture><img src="https://media.giphy.com/media/l3vR3GKJ6rAsWof7y/giphy.gif" width="50px"></picture> **About me**  
+### 📊 GitHub Analytics
 
-- 👾 A passionate Self-taught Developer  
-- 🔒 Reverse Engineer  
-- 🎮 Love gaming and anime  
-- 🌱 Currently a: Inversion Engineer, web developer, app developer, hardware enthusiast  
-- 🚀 Building scrapers, websites, apps, and hardware/robotics projects  
-- ⚡ Always curious and exploring new technologies  
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"><b> Skills</b>  
-
-<p align="center">  
-
-- **Languages**:  
-  ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-  ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-  ![JSX](https://img.shields.io/badge/JSX-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-  ![JSON](https://img.shields.io/badge/JSON-%23000000.svg?style=for-the-badge&logo=json&logoColor=white)  
-
-<br>    
-
-- **Core Tech**:  
-  ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-  ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-  ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-  ![Electron](https://img.shields.io/badge/Electron-%2347848F.svg?style=for-the-badge&logo=electron&logoColor=white)  
-  ![REST API](https://img.shields.io/badge/REST_API-%23026E00.svg?style=for-the-badge&logo=fastapi&logoColor=white)  
-  ![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-  ![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)  
-  ![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=white)  
-  ![Framer Motion](https://img.shields.io/badge/Framer_Motion-%230055FF.svg?style=for-the-badge&logo=framer&logoColor=white)  
-
-<br>  
-
-- **Back-End Development**:  
-  ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
-  ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-  ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
-
-<br>  
-
-- **Platforms**:  
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
-  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-  ![Arch Linux](https://img.shields.io/badge/Arch_Linux-%231793D1.svg?style=for-the-badge&logo=arch-linux&logoColor=white)  
-
-<br>  
-
-- **Extras and Tools**:  
-  ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
-  ![Playwright](https://img.shields.io/badge/Playwright-%232EAD33.svg?style=for-the-badge&logo=playwright&logoColor=white)  
-  ![Chrome DevTools](https://img.shields.io/badge/Chrome_DevTools-%234285F4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)  
-  ![JADX](https://img.shields.io/badge/JADX-%233DDC84.svg?style=for-the-badge&logo=android&logoColor=white)  
-  ![Ghidra](https://img.shields.io/badge/Ghidra-%23EF2D5E.svg?style=for-the-badge)  
-  ![IDA Pro](https://img.shields.io/badge/IDA_Pro-%23E0234E.svg?style=for-the-badge)  
-  ![Frida](https://img.shields.io/badge/Frida-%23FF6B35.svg?style=for-the-badge)  
-  ![mitmproxy](https://img.shields.io/badge/mitmproxy-%23C1272D.svg?style=for-the-badge&logo=wireshark&logoColor=white)  
-
-</p>  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ninetailssoul&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD&icon_color=00F5D4" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ninetailssoul&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70A5FD" height="165" alt="Top Languages" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=ninetailssoul&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5D4&fire=00F5D4&currStreakLabel=70A5FD" height="165" alt="GitHub Streak" />
+</div>
 
 ---
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>  
-
-<div align="center">  
-  <a href="https://github.com/ninetailssoul">  
-    <img src="https://github-readme-stats.vercel.app/api?username=ninetailssoul&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>  
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninetailssoul&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>  
-  </a>  
+<div align="center">
+  <sub>Built with curiosity & coffee • Powered by Arch Linux</sub>
 </div>
