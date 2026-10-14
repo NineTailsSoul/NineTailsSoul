@@ -11,10 +11,10 @@
 ## <picture><img src="https://media.giphy.com/media/l3vR3GKJ6rAsWof7y/giphy.gif" width="50px"></picture> **About me**  
 
 - 👾 A passionate Self-taught Developer  
-- 🔒 Cybersecurity Enthusiast  
+- 🔒 Reverse Engineer  
 - 🎮 Love gaming and anime  
-- 🌱 Currently learning Web Development and Ethical Hacking  
-- 🚀 Building a Cybersecurity Website with Real-Time Dark Web Monitoring  
+- 🌱 Currently a :- Inversion Engineer, web developer, app developer ,hardware enthusiast
+- 🚀 Building Scrapers, website, app, hardware/robotics projects
 - ⚡ Always curious and exploring new technologies  
 
 ---
@@ -25,35 +25,70 @@
 
 - **Languages**:  
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Bash](https://shields.io)
+  ![JSX](https://shields.io)
+  ![JSON](https://shields.io)
+
 
 <br>   
 
-- **Front-End Development**:  
+- **Core Tech**:  
   ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
   ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![React](https://shields.io)
+  ![React Native](https://shields.io)
+  ![Electron](https://shields.io)
+  ![API](https://shields.io)
+  ![JWT](https://shields.io)
+  ![NodeJS](https://shields.io)
+  ![Flask](https://shields.io)
+  ![MongoDB](https://shields.io)
+  ![Express.js](https://shields.io)
+  ![Threejs](https://shields.io)
+  ![GSAP](https://shields.io)
+  ![Framer Motion](https://shields.io)
+  
 
-<br>  
+
+<br> 
+
+
 
 - **Back-End Development**:  
   ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)  
+  ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  ![Flask](https://shields.io)
+  ![MongoDB](https://shields.io)
+  ![Express.js](https://shields.io)
+
 
 
 <br>  
 
-- **Tools and Platforms**:  
+- **Platforms**:  
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
   ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+  ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Arch Linux](https://shields.io)
+
 
 <br>  
 
-- **Extras**:  
+- **Extras and Tools**:  
   ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)  
+  ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+  ![Playwright](https://shields.io)
+  ![Chrome DevTools](https://shields.io)
+  ![JADX](https://shields.io)
+  ![Grida](https://shields.io)
+  ![IDA Pro](https://shields.io)
+  ![Frida](https://shields.io)
+  ![mitmproxy](https://shields.io)
+  
+ 
 
 </p>  
 
@@ -67,19 +102,3 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ninetailssoul&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"/>  
   </a>  
 </div>  
-
----
-
-## <b> Let's Connect..! </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="80">  
-
-
-  <li>  
-    <a href="aryansinghsunil2010@gmail.com" target="_blank">  
-      <img src="https://img.shields.io/badge/gmail:-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;" />  
-    </a>  
-  </li>  
-</ul>  
-</div>  
-
----
- 
