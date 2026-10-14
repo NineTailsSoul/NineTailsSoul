@@ -35,6 +35,17 @@
 </p>
 
 <p align="center">
+  <b>AI, LLMs & Agent Workflows</b><br>
+  <img src="https://img.shields.io/badge/Gemini-8E75C2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Perplexity-20808D?style=for-the-badge&logo=perplexity&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenRouter-6566F1?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Goose-000000?style=for-the-badge&logo=probot&logoColor=00F5D4" />
+  <img src="https://img.shields.io/badge/OpenCode-1E1E1E?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" />
+  <img src="https://img.shields.io/badge/OpenCode_Zen-101414?style=for-the-badge&logo=codemirror&logoColor=00F5D4" />
+</p>
+
+<p align="center">
   <b>Frontend, Mobile & 3D UI</b><br>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
